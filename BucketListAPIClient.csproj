@@ -4,7 +4,7 @@
     <TargetFrameworks>net20;net35;net40;net45;netstandard2.0;netstandard2.1;net6.0</TargetFrameworks>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>APIVerve.API.BucketList</Title>
-    <Version>1.1.8</Version>
+    <Version>1.1.9</Version>
     <Authors>APIVerve</Authors>
     <Company>APIVerve</Company>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
@@ -14,7 +14,7 @@
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageProjectUrl>https://apiverve.com/?utm_source=nuget</PackageProjectUrl>
     <SignAssembly>False</SignAssembly>
-    <Description>Bucket List is a simple tool for getting a random bucket list item. It returns a random item from a predefined list of items.</Description>
+    <Description>Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item</Description>
     <RepositoryUrl>https://github.com/apiverve/bucketlist.NET-API</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>bucket list; bucket list api; bucket list tool; bucket list software; bucket list service</PackageTags>
